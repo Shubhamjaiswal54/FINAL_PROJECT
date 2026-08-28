@@ -15,15 +15,6 @@ Follow the instructions from [Readme.file](./src/README.md)
 
 ## Output
 
-![Output 1](./documentation/images/1.png)
-
-![Output 2](./documentation/images/2.png)
-
-![Output 3](./documentation/images/3.png)
-
-![Output 4](./documentation/images/4.png)
-
-![Output 5](./documentation/images/5.png)
 
 ## How it works
 
